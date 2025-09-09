@@ -1,0 +1,16 @@
+{
+  "numeric": [
+    "day",
+    "months_after_giving_birth",
+    "previous_mastits_status",
+    "temperature",
+    "hardness",
+    "pain"
+  ],
+  "categorical": [
+    "cow_id",
+    "breed",
+    "milk_visibility"
+  ],
+  "target": "class1"
+}
