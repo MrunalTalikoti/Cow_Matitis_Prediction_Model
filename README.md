@@ -72,6 +72,7 @@ Artifacts generated in `models/`:
 
 ### 2. Launch the app
 ```bash
+$env:PYTHONPATH = "."
 streamlit run app/streamlit_app.py
 ```
 
